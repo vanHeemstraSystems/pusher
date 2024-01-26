@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+pusher
+# Pusher
 
-Based on "ABC" at https://www.abc.com/
+Based on "Pusher - Powering realtime experiences for mobile and web" at https://pusher.com/
 
 ## 100 - Introduction
 
