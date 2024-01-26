@@ -5,6 +5,8 @@ Based on "Pusher - Powering realtime experiences for mobile and web" at https://
 
 Based on "Pusher - Getting Started" at https://dashboard.pusher.com/
 
+Based on "Pusher - Tutorial" at https://laracasts.com/lessons/pusher-awesomeness 
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
