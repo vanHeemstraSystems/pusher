@@ -3,6 +3,8 @@ pusher
 
 Based on "Pusher - Powering realtime experiences for mobile and web" at https://pusher.com/
 
+Based on "Pusher - Getting Started" at https://dashboard.pusher.com/
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
