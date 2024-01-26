@@ -7,6 +7,8 @@ Based on "Pusher - Getting Started" at https://dashboard.pusher.com/
 
 Based on "Pusher - Tutorial" at https://laracasts.com/lessons/pusher-awesomeness 
 
+Based on "Pushing to Pusher" at https://laracasts.com/series/get-real-with-laravel-echo/episodes/2
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
